@@ -3,6 +3,8 @@
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
 </p>
 
+![alt text](https://github.com/ogbanugot/Obstacle-detection-and-tracking-with-ROS/blob/master/image_detector/cfg/sample.gif)
+
 Object detection using YOLOv2 on a Robosapien robot with raspberry pi3.  
 Project was exectuted for the ICogs Labs robosoccer competition in Ethiopia.
 
