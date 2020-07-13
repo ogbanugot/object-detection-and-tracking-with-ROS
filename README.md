@@ -6,11 +6,12 @@
 ![alt text](https://github.com/ogbanugot/Obstacle-detection-and-tracking-with-ROS/blob/master/image_detector/cfg/sample.gif)
 
 Object detection using YOLOv2 on a Robosapien robot with raspberry pi3.  
+Full system implementation using ROS Kinetic.  
 Project was exectuted for the ICogs Labs robosoccer competition in Ethiopia.
 
 ## Requirements
-ROS Kinetic
-YOLOv2
+ROS Kinetic  
+YOLOv2  
 
 ## Usage
 First, copy the files in the repo to your catkin_ws and cmake.  
